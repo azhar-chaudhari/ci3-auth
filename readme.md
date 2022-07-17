@@ -56,3 +56,6 @@ For User
 Codeigniter 3 ["Installation Instructions"](https://codeigniter.com/userguide3/installation/index.html).
 
 Adminlte 3 ["Installation"](https://adminlte.io/docs/3.0/).
+
+## Author
+Azhar Chaudhari
