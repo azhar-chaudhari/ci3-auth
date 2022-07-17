@@ -1,4 +1,4 @@
-# android-app-performance
+# CodeIgniter 3 Authentication 
 CodeIgniter 3 Authentication with AdminLTE 3 (Codeigniter 3 Admin Template)
 
 
