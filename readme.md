@@ -44,11 +44,10 @@ ci3auth.sql
 
 
 ## Login Credentials
-For Admin
-1. Email :admin@ci3auth.com, Password:admin
 
-For User
-2. Email :user@ci3auth.com, Password:12345
+1. [For Admin] Email :admin@ci3auth.com, Password:admin
+
+2. [For User] Email :user@ci3auth.com, Password:12345
 
 
 
